@@ -11,35 +11,39 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Ecological coupling: grasslands under global change, 2026 (expected)
+* M.S. in Biology: Ecology and conservation, 2021
+* B.S. in Environmental science, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Researcher assistant
+  * Uppsala University
+  * Supervisor: Rebert Muscarela
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2020: Internship
+  * Uppsala University
+  * Duties includes: Orchid popualtion estimation and crosspolination of inbred individuals.
+  * Supervisor: Linus Söderquist / Nina Sletvold
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* April 2019 - August 2019: Educator
+  * UNICEF
+  * Design and implement educational programs and enhanced teaching activities.
+
+* Sprin 2018: Internship
+  * Technical University of Denmark (DTU)
+  * Engaged in various research methods relevant to wasterwater purification.
+  * Supervisor: Henrik Rasmus Andersen
   
 Skills
+Funding
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* Universidad de Cadiz, 2023
+2.500 EUR for research stay in Marburg University, Germany.
+
+* Swedish Phytograohic Society, 2021
+20.000 SEK for fieldwork in Puerto Rico.
 
 Publications
 ======
@@ -53,12 +57,8 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#Teaching
+#======
+#  <ul>{% for post in site.teaching reversed %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
