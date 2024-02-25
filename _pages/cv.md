@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -34,16 +34,14 @@ Work experience
   * Technical University of Denmark (DTU)
   * Engaged in various research methods relevant to wasterwater purification.
   * Supervisor: Henrik Rasmus Andersen
-  
-Skills
+
 Funding
 ======
-
 * Universidad de Cadiz, 2023
-2.500 EUR for research stay in Marburg University, Germany.
+  * 2.500 EUR for research stay in Marburg University, Germany.
 
-* Swedish Phytograohic Society, 2021
-20.000 SEK for fieldwork in Puerto Rico.
+* Swedish Phytogeographical Society, 2021
+  * 20.000 SEK for fieldwork in Puerto Rico.
 
 Publications
 ======
@@ -51,14 +49,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-#Talks
-#======
-#  <>{% for post in site.talks reversed %}
-#    {% include archive-single-talk-cv.html  %}
-#  {% endfor %}</>
-  
-#Teaching
-#======
-#  <>{% for post in site.teaching reversed %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</>
+Talks
+======
+  <>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</>
