@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Ecological coupling: grasslands under global change, 2026 (expected)
-* M.S. in Biology: Ecology and conservation, 2021
-* B.S. in Environmental science, 2019
+* M.Sc. in Biology: Ecology and conservation, 2021
+* B.Sc in Environmental science, 2019
 
 Work experience
 ======
@@ -51,14 +51,14 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+#Talks
+#======
+#  <>{% for post in site.talks reversed %}
+#    {% include archive-single-talk-cv.html  %}
+#  {% endfor %}</>
   
 #Teaching
 #======
-#  <ul>{% for post in site.teaching reversed %}
+#  <>{% for post in site.teaching reversed %}
 #    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
+#  {% endfor %}</>
