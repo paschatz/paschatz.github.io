@@ -58,6 +58,9 @@
       {% endif %}
 
       <!-- Font Awesome icons / Repositories and software development -->
+      {% if author.inaturalist %}
+        <li><a href="https://www.inaturalist.se/people/{{ author.inaturalist }}"><i class="fab fa-fw fa-inaturalist icon-pad-right" aria-hidden="true"></i>iNaturalist</a></li>
+      {% endif %}
       {% if author.bitbucket %}
         <li><a href="https://bitbucket.org/{{ author.bitbucket }}"><i class="fab fa-fw fa-bitbucket icon-pad-right" aria-hidden="true"></i>Bitbucket</a></li>
       {% endif %}
