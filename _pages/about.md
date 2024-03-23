@@ -8,4 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Originally from Greece, for the last couple of years, I have been living abroad. For the time being, my temporary home is in the south of Spain. I am a PhD candidate at the University of Cadiz. My research focuses on ecological coupling, and I am trying to find ways to detect ecosystem changes due to global change, using spatial and network analysis. I am interested in the effects of global change on plant communities and ecosystem functioning. Additionally, I am interested in the development of open-source tools for ecological research and data management. As a budding researcher, I feel committed to public, free, and accessible education for everyone and I am trying to contribute to this cause sharing all the componenets of my research (e.g. data, R-scripts).
+Originally from Greece, I have spent the past few years living abroad and am currently based in the south of Spain where I am pursuing my PhD at the University of Cadiz. 
+
+Since my masters, I am situtated in the interdisciplinary field of ecology. I find fascinating one, to attempt to explain natural processes/observations using mathematics. My research focuses on ecological coupling, and I am trying to find ways to detect ecosystem changes due to global change, using spatial and network analysis. I am interested in the effects of global change on plant communities and ecosystem functioning. 
+
+As an emerging researcher, I am dedicated to the principles of public, free, and accessible education for all. I strive to uphold this commitment by openly sharing the components of my research, including data and R-scripts, to contribute to the collective knowledge of the scientific community and beyond.
