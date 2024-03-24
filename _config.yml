@@ -211,7 +211,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  packages:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -252,15 +254,15 @@ defaults:
       share: true
       comments: false
   # _portfolio
-  #- scope:
-  #    path: ""
-  #    type: portfolio
-  #  values:
-  #    layout: single
-  #    author_profile: true
-  #    share: true
-  #    comment: true
-  # _talks
+  - scope:
+      path: ""
+      type: Packages
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+   #_talks
   - scope:
       path: ""
       type: talks
