@@ -253,10 +253,10 @@ defaults:
       author_profile: true
       share: true
       comments: false
-  # _portfolio
+  # _packages
   - scope:
       path: ""
-      type: Packages
+      type: packages
     values:
       layout: single
       author_profile: true
