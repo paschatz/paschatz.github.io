@@ -1,6 +1,6 @@
 ---
 title: "EcoCoupleR: a computational implementation of ecosystem coupling in R"
-excerpt: "An R package that offers functions for calculating ecological coupling 1<br/><img src='/images/ecocoupler_logo.png' width='150px'>"
+excerpt: "<div style='float: left; margin-right: 10px;'><img src='/images/ecocoupler_logo.png' width='150px'></div> An R package that offers functions for calculating ecological coupling. "
 collection: packages
 ---
 
